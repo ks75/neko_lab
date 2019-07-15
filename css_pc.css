@@ -26,7 +26,7 @@ header .row>div:nth-child(1)>a {
 
     height: 50px;
 
-    background: url(https://github.com/ks75/neko_lab/raw/master/logo_L.png) no-repeat; /* url(로고 경로 입력) */
+    background: url(https://github.com/ks75/neko_lab/blob/master/logo_L.png) no-repeat; /* url(로고 경로 입력) */
 
     background-size: auto 50px;
 
